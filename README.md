@@ -1,3 +1,3 @@
 # hello-world
-Test for new project
-Test Test Test
+Hello for Test
+The sky is blue
